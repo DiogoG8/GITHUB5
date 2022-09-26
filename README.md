@@ -1,3 +1,3 @@
 # GITHUB5
-REMOTE
+LOCAL
 Hey, it is Diogo!
